@@ -1,5 +1,5 @@
-### Hello! Welcome here 👋
-I am a senior software engineer, who always loves to learn new things.
+### Hello! Welcome here
+I am an experienced software engineer in a lot of different technologies, both professionally as personally. I always like to keep learning new things, and I like programming a lot.
 
 <!--
 **eduarddejong/eduarddejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,27 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 \
-**Many years of experience:**\
+**Many years of experience (mostly professionally):**\
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)\
-\> also Delphi, VB, and more\
-\
-**New, very actively learning:**\
+(I have also worked Delphi, VB and more)
+
+**Actively learning:**\
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)\
+\
+**Older skills (mostly personally):**\
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)\
+\
+**Many years of working with databases and SQL (professionally):**
+* **SQL Server**
+* **Access**
+* **SQLite**
+
 \
 **Shell languages:**\
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)\
 (also cmd/batch on Win.)\
-\
-**Older skills:**\
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)\
-\
-**Many years of working with databases and SQL:**\
-\> **SQL Server**\
-\> **Access**\
-\> **SQLite**\
 \
 **Unix operating systems activity:**\
 [![My Skills](https://skillicons.dev/icons?i=linux,bsd)](https://skillicons.dev)\
@@ -47,8 +46,6 @@ I am especially an Arch Linux user at home.\
 [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)\
 also **Notepad\+\+**\
 \
-**Version control longer experience:**\
-**\> Subversion (SVN)**\
-\
-**Version control new/learning:**\
+**Version control skills:**\
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+and also **SVN**
